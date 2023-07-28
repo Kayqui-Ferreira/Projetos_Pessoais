@@ -1,0 +1,1 @@
+#o Pycharme community não lê o arquivo de audio
